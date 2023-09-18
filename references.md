@@ -1,12 +1,3 @@
-This text conflicts with text in references.md in the main branch.
+# References
 
-
-
-
-
-
-
-
-
-
-I am committed to committing this file.
+* octocat 1 😈
